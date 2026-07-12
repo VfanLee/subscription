@@ -2,7 +2,7 @@ Yang-1989,#group#
 
 更新时间,#genre#
 
-2026-07-12 12:30:00,http://172.93.219.132:18443/preview.mp4
+2026-07-12 13:17:29,https://sub.vfanlee.dpdns.org:8443/preview.mp4
 
 Yang-1989.•世界杯「Audio」,#genre#
 
