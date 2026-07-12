@@ -1,0 +1,164 @@
+Yang-1989,#group#
+
+更新时间,#genre#
+
+2026-07-12 11:10:32,http://172.93.219.132:18443/preview.mp4
+
+Yang-1989.•世界杯「Audio」,#genre#
+
+CCTV5「电视伴音」,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+CCTV5+「电视伴音」,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+
+Yang-1989.•世界杯「Relay」,#genre#
+
+FOX FIFA「回看」,https://cdn-1.yang-1989.xyz/sprt/rh8hmr?token=9178645af793edfa4bb8744c7799bdeffd9820cd7dded7d4
+FUSSBALL.TV 1,https://cdn-1.yang-1989.xyz/sprt/gau5jt?token=9178645af793edfa4bb8744c7799bdeffd9820cd7dded7d4
+FUSSBALL.TV 2,https://cdn-1.yang-1989.xyz/sprt/jj4he5?token=9178645af793edfa4bb8744c7799bdeffd9820cd7dded7d4
+FUSSBALL.TV 3,https://cdn-1.yang-1989.xyz/sprt/pyxtzf?token=9178645af793edfa4bb8744c7799bdeffd9820cd7dded7d4
+FIFA World Cup CH01,https://cdn-1.yang-1989.xyz/sprt/mayaj3?token=9178645af793edfa4bb8744c7799bdeffd9820cd7dded7d4
+FIFA World Cup CH02,https://cdn-1.yang-1989.xyz/sprt/zzebce?token=9178645af793edfa4bb8744c7799bdeffd9820cd7dded7d4
+FIFA World Cup CH03,https://cdn-1.yang-1989.xyz/sprt/wn2gwa?token=9178645af793edfa4bb8744c7799bdeffd9820cd7dded7d4
+FIFA World Cup CH04,https://cdn-1.yang-1989.xyz/sprt/uun5sb?token=9178645af793edfa4bb8744c7799bdeffd9820cd7dded7d4
+
+Yang-1989.•香港「Relay」,#genre#
+
+翡翠台,https://cdn.yang-1989.xyz/hkK/m87m37?token=cbdb44329583623bba1e273011340d9e5e55fe4435696ee5
+無綫新聞台,https://cdn.yang-1989.xyz/hkK/946den?token=cbdb44329583623bba1e273011340d9e5e55fe4435696ee5
+TVB Plus,https://cdn.yang-1989.xyz/hkK/rzmefv?token=cbdb44329583623bba1e273011340d9e5e55fe4435696ee5
+ViuTV,https://iptv.yang-1989.xyz/hk/bayvaw?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+ViuTVsix,https://iptv.yang-1989.xyz/hk/674tw6?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Now直播台,https://iptv.yang-1989.xyz/hk/k565yj?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Now新聞台,https://iptv.yang-1989.xyz/hk/wv6k52?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Now財經台,https://iptv.yang-1989.xyz/hk/2kc3f3?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Now Sports 精選,https://iptv.yang-1989.xyz/hk/2wvsyp?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Now Sports 616,https://iptv.yang-1989.xyz/hkg/kk6k4k?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Now Sports 617,https://iptv.yang-1989.xyz/hkg/unagfg?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+電台·雷霆881「回看」,https://iptv.yang-1989.xyz/hkg/fjyqqp?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+電台·叱咤903「回看」,https://iptv.yang-1989.xyz/hkg/y8wxeg?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+電台·AM864「回看」,https://iptv.yang-1989.xyz/hkg/eyhfya?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+HOY 國際財經台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+RTHK 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+RTHK 34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳門資訊,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
+Yang-1989.•央視「Relay」,#genre#
+
+CCTV 1 綜合「Relay」,https://iptv.yang-1989.xyz/cn/qn7gvq?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 2 財經「Relay」,https://iptv.yang-1989.xyz/cn/zz3d7g?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 3 綜藝「Relay」,https://iptv.yang-1989.xyz/cn/646b78?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 4 中文國際「Relay」,https://iptv.yang-1989.xyz/cn/3kn7sf?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 5 體育「Relay」,https://iptv.yang-1989.xyz/cn/zmp735?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 5+ 體育賽事「Relay」,https://iptv.yang-1989.xyz/cn/wvsnz2?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 6 電影「Relay」,https://iptv.yang-1989.xyz/cn/hk4wvz?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 7 國防軍事「Relay」,https://iptv.yang-1989.xyz/cn/d3jc3p?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 8 電視劇「Relay」,https://iptv.yang-1989.xyz/cn/2as565?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 9 記錄「Relay」,https://iptv.yang-1989.xyz/cn/eprk48?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 10 科教「Relay」,https://iptv.yang-1989.xyz/cn/t23pqv?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 11 戲曲「Relay」,https://iptv.yang-1989.xyz/cn/wm2b8x?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 12 社會與法「Relay」,https://iptv.yang-1989.xyz/cn/umkjpj?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 13 新聞「Relay」,https://iptv.yang-1989.xyz/cn/6scvrp?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 14 少兒「Relay」,https://iptv.yang-1989.xyz/cn/7zft5k?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CCTV 15 音樂「Relay」,https://iptv.yang-1989.xyz/cn/jb7x8b?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+北京衛視「Relay」,https://iptv.yang-1989.xyz/cn/8377vm?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+東方衛視「Relay」,https://iptv.yang-1989.xyz/cn/urxqwx?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+廣東衛視「Relay」,https://iptv.yang-1989.xyz/cn/nasqhm?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+浙江衛視「Relay」,https://iptv.yang-1989.xyz/cn/dwbx59?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+江蘇衛視「Relay」,https://iptv.yang-1989.xyz/cn/wb5xh2?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+湖南衛視「Relay」,https://iptv.yang-1989.xyz/cn/56awjx?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+四川衛視「Relay」,https://iptv.yang-1989.xyz/cn/2k93wf?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+
+Yang-1989.•台灣「Relay」,#genre#
+
+緯來日本「Relay」,https://iptv.yang-1989.xyz/tw/gr83sn?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+緯來體育「Relay」,https://iptv.yang-1989.xyz/tw/2n5vyh?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+緯來電影「Relay」,https://iptv.yang-1989.xyz/tw/dkzcf5?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+緯來綜合「Relay」,https://iptv.yang-1989.xyz/tw/3xyyec?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+緯來戲劇「Relay」,https://iptv.yang-1989.xyz/tw/7jjfgt?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+緯來育樂「Relay」,https://iptv.yang-1989.xyz/tw/5hgyq2?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+年代新聞「Relay」,https://iptv.yang-1989.xyz/tw/qfdpwt?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+中天亞洲「Relay」,https://iptv.yang-1989.xyz/tw/ku9yrm?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+中天綜合「Relay」,https://iptv.yang-1989.xyz/tw/tnr2nz?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+中天娛樂「Relay」,https://iptv.yang-1989.xyz/tw/hw7eyz?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+東森電影「Relay」,https://iptv.yang-1989.xyz/tw/aua482?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+東森洋片「Relay」,https://iptv.yang-1989.xyz/tw/mr4qeu?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+東森綜合「Relay」,https://iptv.yang-1989.xyz/tw/nryce9?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+東森戲劇「Relay」,https://iptv.yang-1989.xyz/tw/xymmqp?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+東森幼幼「Relay」,https://iptv.yang-1989.xyz/tw/w9p779?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+台視「Relay」,https://iptv.yang-1989.xyz/tw/3dp6kk?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+好萊塢電影「Relay」,https://iptv.yang-1989.xyz/tw/nqpg23?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+龍祥時代「Relay」,https://iptv.yang-1989.xyz/tw/ze6c4z?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+CINEMAX「Relay」,https://iptv.yang-1989.xyz/tw/naf3pc?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+MTV Live「Relay」,https://iptv.yang-1989.xyz/tw/acbvtb?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+龍華偶像「ofiii」,https://iptv.yang-1989.xyz/ofiii/k8gh6j?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+龍華卡通「ofiii」,https://iptv.yang-1989.xyz/ofiii/x5ey57?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+龍華戲劇「ofiii」,https://iptv.yang-1989.xyz/ofiii/7hpgs7?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+龍華日韓「ofiii」,https://iptv.yang-1989.xyz/ofiii/bgkdt5?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+龍華洋片「ofiii」,https://iptv.yang-1989.xyz/ofiii/uhmh6m?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+龍華經典「ofiii」,https://iptv.yang-1989.xyz/ofiii/wmuujd?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+龍華電影「ofiii」,https://iptv.yang-1989.xyz/ofiii/hv2wg2?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+台視新聞「ofiii」,https://iptv.yang-1989.xyz/ofiii/tcg25r?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+台灣戲劇「ofiii」,https://iptv.yang-1989.xyz/ofiii/76gc4j?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+寰宇財經「ofiii」,https://iptv.yang-1989.xyz/ofiii/2pu9q2?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+DayStar「ofiii」,https://iptv.yang-1989.xyz/ofiii/39vdeq?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+第1商業「ofiii」,https://iptv.yang-1989.xyz/ofiii/n87u29?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Smart知識「ofiii」,https://iptv.yang-1989.xyz/ofiii/uw74cq?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+
+Yang-1989.•體育「Relay」,#genre#
+
+TNT Sport 1,https://iptv.yang-1989.xyz/sprt/astauh?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+TNT Sport 2,https://iptv.yang-1989.xyz/sprt/7c2rrv?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+TNT Sport 3,https://iptv.yang-1989.xyz/sprt/r488xt?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+TNT Sport 4,https://iptv.yang-1989.xyz/sprt/c859mq?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Eurosport 1,https://iptv.yang-1989.xyz/sprt/6bbanx?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Eurosport 2,https://iptv.yang-1989.xyz/sprt/edwkaf?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+beIN Sports,https://iptv.yang-1989.xyz/sprt/hwtuxv?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+beIN Sports 2,https://iptv.yang-1989.xyz/sprt/gy9r9e?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+beIN Sports 3,https://iptv.yang-1989.xyz/sprt/m8x2hd?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+beIN Sports 4,https://iptv.yang-1989.xyz/sprt/5qgkxa?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+beIN Sports 5,https://iptv.yang-1989.xyz/sprt/326xgf?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 1,https://iptv.yang-1989.xyz/sprt/9xftzj?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 2,https://iptv.yang-1989.xyz/sprt/aaqwy5?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 3,https://iptv.yang-1989.xyz/sprt/wmj9gy?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 4,https://iptv.yang-1989.xyz/sprt/pkqe4c?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 5,https://iptv.yang-1989.xyz/sprt/cmabfc?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 6,https://iptv.yang-1989.xyz/sprt/sjznfs?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 7,https://iptv.yang-1989.xyz/sprt/4p3jtm?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 8,https://iptv.yang-1989.xyz/sprt/827hhd?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 9,https://iptv.yang-1989.xyz/sprt/3595dy?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 10,https://iptv.yang-1989.xyz/sprt/xkdyf8?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Premier 11,https://iptv.yang-1989.xyz/sprt/n9sg4b?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Sports 1,https://iptv.yang-1989.xyz/sprt/wjyfmm?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Sports 2,https://iptv.yang-1989.xyz/sprt/9dnbam?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Sports 3,https://iptv.yang-1989.xyz/sprt/y7rkez?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Sports 4,https://iptv.yang-1989.xyz/sprt/d2rjwx?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Sports 5,https://iptv.yang-1989.xyz/sprt/pjmx4f?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Sports 6,https://iptv.yang-1989.xyz/sprt/xmykhp?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Sports 7,https://iptv.yang-1989.xyz/sprt/uh3ehj?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Hub Sports 8,https://iptv.yang-1989.xyz/sprt/svk4ma?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Spotv 1,https://iptv.yang-1989.xyz/sprt/232f4d?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Spotv 2,https://iptv.yang-1989.xyz/sprt/9fm55x?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+FIGHT SPORTS,https://iptv.yang-1989.xyz/sprt/s75tz7?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+
+Yang-1989.•綜合「Relay」,#genre#
+
+BBC Earth,https://iptv.yang-1989.xyz/comp/yhfbvs?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+BBC Lifestyle,https://iptv.yang-1989.xyz/comp/tzm8zq?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Discovery,https://iptv.yang-1989.xyz/comp/c94dk9?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+HBO,https://iptv.yang-1989.xyz/comp/nadsnh?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+HBO Hits,https://iptv.yang-1989.xyz/comp/52wjtq?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+HBO Family,https://iptv.yang-1989.xyz/comp/m5mwcw?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+HBO Signature,https://iptv.yang-1989.xyz/comp/2t2x9t?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Channel 5,https://iptv.yang-1989.xyz/comp/qbv7cy?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Channel 8,https://iptv.yang-1989.xyz/comp/aqr3pp?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Channel U,https://iptv.yang-1989.xyz/comp/n3rew3?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+中天亞洲,https://iptv.yang-1989.xyz/comp/6p22u9?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
