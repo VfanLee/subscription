@@ -2,7 +2,7 @@ Yang-1989,#group#
 
 更新时间,#genre#
 
-2026-07-12 13:17:29,https://sub.vfanlee.dpdns.org:8443/preview.mp4
+2026-07-12 15:30:00,https://sub.vfanlee.dpdns.org:8443/preview.mp4
 
 Yang-1989.•世界杯「Audio」,#genre#
 
@@ -31,8 +31,8 @@ Now直播台,https://iptv.yang-1989.xyz/hk/k565yj?token=63e50227ce38389acd6a1dad
 Now新聞台,https://iptv.yang-1989.xyz/hk/wv6k52?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
 Now財經台,https://iptv.yang-1989.xyz/hk/2kc3f3?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
 Now Sports 精選,https://iptv.yang-1989.xyz/hk/2wvsyp?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
-Now Sports 616,https://iptv.yang-1989.xyz/hkg/kk6k4k?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
 Now Sports 617,https://iptv.yang-1989.xyz/hkg/unagfg?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
+Now Sports 618,https://iptv.yang-1989.xyz/hkg/kk6k4k?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
 電台·雷霆881「回看」,https://iptv.yang-1989.xyz/hkg/fjyqqp?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
 電台·叱咤903「回看」,https://iptv.yang-1989.xyz/hkg/y8wxeg?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
 電台·AM864「回看」,https://iptv.yang-1989.xyz/hkg/eyhfya?token=63e50227ce38389acd6a1dadb3a465301cc4ecca3a89543f
