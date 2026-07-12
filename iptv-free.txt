@@ -2,7 +2,7 @@ IPTV Free,#group#
 
 更新时间,#genre#
 
-2026-07-12 11:49:09,http://172.93.219.132:18443/preview.mp4
+2026-07-12 12:17:00,http://172.93.219.132:18443/preview.mp4
 
 IPTV Free.Entertainment,#genre#
 
@@ -155,6 +155,7 @@ CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 IPTV Free.Culture,#genre#
 
 CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+Hakka TV,https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8
 Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 Nei Monggol TV 2 Mongolian Culture Channel,http://1.24.190.98:10080/hls/40/index.m3u8
 
