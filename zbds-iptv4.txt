@@ -2,7 +2,7 @@ ZBDS IPTV4,#group#
 
 更新时间,#genre#
 
-2026-07-14 15:45:58,https://sub.vfanlee.dpdns.org:8443/preview.mp4
+2026-07-14 18:00:00,https://sub.vfanlee.dpdns.org:8443/preview.mp4
 
 央视频道,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
