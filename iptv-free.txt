@@ -2,7 +2,7 @@ IPTV Free,#group#
 
 更新时间,#genre#
 
-2026-07-12 16:00:01,https://sub.vfanlee.dpdns.org:8443/preview.mp4
+2026-07-14 14:07:34,https://sub.vfanlee.dpdns.org:8443/preview.mp4
 
 IPTV Free.Entertainment,#genre#
 
@@ -73,7 +73,6 @@ CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-am
 CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
-Channel 8,https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8
 CreaTV Community Channel 15 (San Jose CA) (720p),https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
 CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
 CTS (HUA-CHI CTS) (1080p),rtmp://59.124.75.138:1935/sat/tv111
@@ -96,6 +95,7 @@ NTD TV West,https://live.ntdtv.com/uwlive990/playlist.m3u8
 Ou-Mun Macau Satellite Ch. 96 (720p),https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+Shaanxi Satelital TV,http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8
 Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 STV City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 Taiwan Indigenous TV (720p),https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
@@ -134,7 +134,7 @@ CCTV-6 (1080p),http://69.30.245.50/live/cctv6.m3u8
 CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV-The First Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 Celestial Movies (576i),http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
-CND Film Middle School Channel,http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+CND Film Middle School Channel,http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
 Jiangxi Movie Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 Jilin Movie Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
